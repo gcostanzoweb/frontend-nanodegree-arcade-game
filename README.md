@@ -1,6 +1,6 @@
 # Frogger 2: The Treasure Hunt
 
-###A Udacity FEND Google Developer Nanodegree Project
+### A Udacity FEND Google Developer Nanodegree Project
 
 This game was developed as a required project for the 2018 FEND Google Developer Nanodegree program from Udacity.
 
