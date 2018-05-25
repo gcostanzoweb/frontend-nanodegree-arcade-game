@@ -21,7 +21,7 @@ Credits for files or lines of codes taken from other websites are written in the
 There are two supported options as of now.
 1. Download the project's folder and run the `index.html` file in your browser.
 or
-2. Play the game at the following link: [click](https://gcostanzoweb.github.io/udacity-google/fend/frontend-nanodegree-arcade-game/http:// "click")
+2. Play the game at the following link: [click](https://gcostanzoweb.github.io/udacity-google/fend/frontend-nanodegree-arcade-game/ "click")
 
 ### How to play the game
 
